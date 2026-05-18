@@ -1,0 +1,29 @@
+# Project Report — Smart Street Lights
+
+## Introduction
+
+Smart Street Lights is a prototype automation system developed using Arduino and sensors to simulate intelligent energy-efficient street lighting.
+
+## Aim
+
+To develop a basic automated street lighting system capable of reducing unnecessary electricity usage.
+
+## Components Used
+
+- Arduino UNO
+- LDR Sensor
+- IR Sensor
+- LEDs
+- Breadboard
+- Jumper Wires
+
+## Applications
+
+- Smart cities
+- Energy-saving systems
+- Automated public lighting
+- Embedded learning projects
+
+## Conclusion
+
+The project successfully demonstrated basic automation concepts using sensors and embedded systems.
