@@ -46,8 +46,7 @@ The system automatically controls street lights based on environmental condition
 📂 Repository Structure
 ━━━━━━━━━━━━━━━━━━
 
-/images → project images and setup photos  
-/demo → working demonstrations  
+/images → project images and setup photos   
 /docs → project documentation  
 /hardware → circuit and hardware details  
 /software → software setup files  
