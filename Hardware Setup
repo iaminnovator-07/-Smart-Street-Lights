@@ -1,0 +1,40 @@
+# Components Used
+
+- Arduino UNO
+- LDR Sensor
+- IR Sensor
+- LEDs
+- Resistors
+- Breadboard
+- Jumper Wires
+- USB Cable
+
+# Wiring Connections
+
+## LDR Sensor
+
+VCC → 5V  
+GND → GND  
+OUT → A0
+
+## LED Connections
+
+Positive → Digital Pin  
+Negative → GND
+
+## IR Sensor
+
+VCC → 5V  
+GND → GND  
+OUT → D2
+
+# Circuit Diagram
+
+The circuit includes:
+
+- Arduino UNO
+- LDR sensor for ambient light detection
+- IR sensor for motion sensing
+- LEDs representing street lights
+
+A breadboard was used for prototype connections.
