@@ -1,0 +1,12 @@
+# Working Principle
+
+The Smart Street Lights system works using ambient light detection and optional motion sensing.
+
+1. LDR sensor detects surrounding brightness.
+2. During daytime:
+   - lights remain OFF
+3. During nighttime:
+   - lights automatically turn ON
+4. Motion detection can increase brightness dynamically.
+
+This creates an energy-efficient lighting automation system.
